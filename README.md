@@ -2,16 +2,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Requirements
 
+### Node 8.11 and Yarn 1.10
 
 ### Mac
-
-Node 8.11
+With [Homebrew](https://brew.sh/)
 
 `brew install node`
 or
 `brew install nvm` 
 
-Yarn 1.10
+And then install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 
 ## Available Scripts
 
