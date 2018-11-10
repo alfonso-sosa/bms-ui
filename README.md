@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirements
+
+
+### Mac
+
+Node 8.11
+
+`brew install node`
+or
+`brew install nvm` 
+
+Yarn 1.10
+
 ## Available Scripts
 
 In the project directory, you can run:
